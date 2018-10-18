@@ -8,6 +8,8 @@
 ![127.0.0.1_3000_(iPhone 6_7_8) (2)](https://github.com/xccjh/A-Vue-Webpack-MUI-Mint-UI-Project/blob/master/images/2.png)
 ![127.0.0.1_3000_(iPhone 6_7_8) (3)](https://github.com/xccjh/A-Vue-Webpack-MUI-Mint-UI-Project/blob/master/images/3.png)
 ![127.0.0.1_3000_(iPhone 6_7_8) (4)](https://github.com/xccjh/A-Vue-Webpack-MUI-Mint-UI-Project/blob/master/images/4.png)
+![127.0.0.1_3000_(iPhone 6_7_8) (5)](https://github.com/xccjh/A-Vue-Webpack-MUI-Mint-UI-Project/blob/master/images/5.png)
+![127.0.0.1_3000_(iPhone 6_7_8) (6)](https://github.com/xccjh/A-Vue-Webpack-MUI-Mint-UI-Project/blob/master/images/6.png)
 
 
 ## 制作首页App组件
