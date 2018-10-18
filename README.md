@@ -1,13 +1,14 @@
 #### 
 
 # **A-Vue-Webpack-MUI-Mint-UI-Project**
+## 首页
+![首页](https://github.com/xccjh/A-Vue-Webpack-MUI-Mint-UI-Project/blob/master/images/127.0.0.1_3000_(iPhone%206_7_8)%20%E9%A6%96%E9%A1%B5.png)
 
-## 主流开源协议之间有何异同？](https://www.zhihu.com/question/19568896)
+![127.0.0.1_3000_(iPhone 6_7_8) (1)](https://github.com/xccjh/A-Vue-Webpack-MUI-Mint-UI-Project/blob/master/images/127.0.0.1_3000_(iPhone%206_7_8)%20(1).png)
+![127.0.0.1_3000_(iPhone 6_7_8) (2)](https://github.com/xccjh/A-Vue-Webpack-MUI-Mint-UI-Project/blob/master/images/127.0.0.1_3000_(iPhone%206_7_8)%20(2).png)
+![127.0.0.1_3000_(iPhone 6_7_8) (3)](https://github.com/xccjh/A-Vue-Webpack-MUI-Mint-UI-Project/blob/master/images/127.0.0.1_3000_(iPhone%206_7_8)%20(3).png)
+![127.0.0.1_3000_(iPhone 6_7_8) (4)](https://github.com/xccjh/A-Vue-Webpack-MUI-Mint-UI-Project/blob/master/images/127.0.0.1_3000_(iPhone%206_7_8)%20(4).png)
 
-## 用命令行把代码上传到github
-1. git add .
-2. git commit -m "提交信息"
-3. git push
 
 ## 制作首页App组件
 1. 完成 Header 区域，使用的是 Mint-UI 中的Header组件
