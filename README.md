@@ -1,14 +1,7 @@
 #### 
 
-# **A-Vue-Webpack-MUI-Mint-UI-Project**
+# **Comprehensive-project**
 ## 首页
-![首页](https://github.com/xccjh/A-Vue-Webpack-MUI-Mint-UI-Project/blob/master/images/1.png)
-![127.0.0.1_3000_(iPhone 6_7_8) (2)](https://github.com/xccjh/A-Vue-Webpack-MUI-Mint-UI-Project/blob/master/images/2.png)
-![127.0.0.1_3000_(iPhone 6_7_8) (3)](https://github.com/xccjh/A-Vue-Webpack-MUI-Mint-UI-Project/blob/master/images/3.png)
-![127.0.0.1_3000_(iPhone 6_7_8) (4)](https://github.com/xccjh/A-Vue-Webpack-MUI-Mint-UI-Project/blob/master/images/4.png)
-![127.0.0.1_3000_(iPhone 6_7_8) (5)](https://github.com/xccjh/A-Vue-Webpack-MUI-Mint-UI-Project/blob/master/images/5.png)
-![127.0.0.1_3000_(iPhone 6_7_8) (6)](https://github.com/xccjh/A-Vue-Webpack-MUI-Mint-UI-Project/blob/master/images/6.png)
-
 
 ## 制作首页App组件
 1. 完成 Header 区域，使用的是 Mint-UI 中的Header组件
@@ -33,7 +26,7 @@
 3. 获取到的数据，要保存到 data 身上
 4. 使用 v-for 循环渲染 每个 item 项
 
-## 改造 九宫格 区域的样式
+## 改造 分类 区域的样式
 
 ## 改造 新闻资讯 路由链接
 
